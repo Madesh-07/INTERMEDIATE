@@ -1,0 +1,17 @@
+body{
+    font-size:18px;
+    font-family:'Rubik';
+    text-decoration: none;
+}
+.nav ul button{
+    width:2cm;
+}
+.buton a:hover{
+    border-bottom: 6px solid red;
+}
+.buon{
+    background-color: rgb(10, 87, 230);
+}
+.bg-violet{
+    background-color: rebeccapurple;
+}
